@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+privado.txt
+privado/
 .Python
 build/
 develop-eggs/
